@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.exe
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.deps.json
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.dll
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\bin\Debug\netcoreapp3.1\daily report (DR) for students.pdb
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.dll
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.pdb
+C:\Users\Janessa Abosso\source\repos\daily report (DR) for students\daily report (DR) for students\obj\Debug\netcoreapp3.1\daily report (DR) for students.genruntimeconfig.cache
