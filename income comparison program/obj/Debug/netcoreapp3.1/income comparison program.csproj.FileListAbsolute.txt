@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.exe
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.deps.json
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.dll
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\bin\Debug\netcoreapp3.1\income comparison program.pdb
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.dll
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.pdb
+C:\Users\Janessa Abosso\source\repos\income comparison program\income comparison program\obj\Debug\netcoreapp3.1\income comparison program.genruntimeconfig.cache
