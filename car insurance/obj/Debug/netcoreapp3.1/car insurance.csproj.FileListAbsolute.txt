@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.exe
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.deps.json
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.dll
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\bin\Debug\netcoreapp3.1\car insurance.pdb
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.dll
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.pdb
+C:\Users\Janessa Abosso\source\repos\car insurance\car insurance\obj\Debug\netcoreapp3.1\car insurance.genruntimeconfig.cache
