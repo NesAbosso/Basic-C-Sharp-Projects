@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.exe
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.deps.json
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.dll
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\bin\Debug\netcoreapp3.1\CONSOLE_APPLICATION.pdb
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.dll
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.pdb
+C:\Users\Janessa Abosso\source\repos\CONSOLE_APPLICATION\CONSOLE_APPLICATION\obj\Debug\netcoreapp3.1\CONSOLE_APPLICATION.genruntimeconfig.cache
