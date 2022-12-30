@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.exe
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.deps.json
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.dll
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\bin\Debug\netcoreapp3.1\while_do_whilestatement.pdb
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.dll
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.pdb
+C:\Users\Janessa Abosso\source\repos\while_do_whilestatement\while_do_whilestatement\obj\Debug\netcoreapp3.1\while_do_whilestatement.genruntimeconfig.cache
