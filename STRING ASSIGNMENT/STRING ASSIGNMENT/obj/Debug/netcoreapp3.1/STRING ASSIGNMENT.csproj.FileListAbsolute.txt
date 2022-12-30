@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.exe
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.deps.json
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.dll
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\bin\Debug\netcoreapp3.1\STRING ASSIGNMENT.pdb
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.dll
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.pdb
+C:\Users\Janessa Abosso\source\repos\STRING ASSIGNMENT\STRING ASSIGNMENT\obj\Debug\netcoreapp3.1\STRING ASSIGNMENT.genruntimeconfig.cache
