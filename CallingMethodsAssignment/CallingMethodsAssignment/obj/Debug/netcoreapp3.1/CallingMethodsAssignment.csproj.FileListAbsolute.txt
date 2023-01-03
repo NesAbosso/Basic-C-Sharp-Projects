@@ -1,0 +1,13 @@
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.exe
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.deps.json
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\Janessa Abosso\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.genruntimeconfig.cache
