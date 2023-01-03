@@ -1,0 +1,31 @@
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.exe
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.deps.json
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\SIX-PART Console App Assignment.pdb
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.pdb
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.genruntimeconfig.cache
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\MassTransit.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\SIX-PART Console App Assignment\SIX-PART Console App Assignment\obj\Debug\netcoreapp3.1\SIX-PART Console App Assignment.csproj.CopyComplete
