@@ -1,0 +1,13 @@
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.exe
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.deps.json
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.dll
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\bin\Debug\netcoreapp3.1\Methods_and_Objects.pdb
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.dll
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.pdb
+C:\Users\Janessa Abosso\source\repos\Methods_and_Objects\Methods_and_Objects\obj\Debug\netcoreapp3.1\Methods_and_Objects.genruntimeconfig.cache
