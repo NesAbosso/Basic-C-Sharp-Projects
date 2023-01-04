@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.exe
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.deps.json
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.dll
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\netcoreapp3.1\MainMethodAssigment.pdb
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.dll
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.pdb
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.genruntimeconfig.cache
+C:\Users\Janessa Abosso\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\netcoreapp3.1\MainMethodAssigment.csproj.AssemblyReference.cache
