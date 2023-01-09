@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\Janessa Abosso\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.dll
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.pdb
+C:\Users\Janessa Abosso\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache
