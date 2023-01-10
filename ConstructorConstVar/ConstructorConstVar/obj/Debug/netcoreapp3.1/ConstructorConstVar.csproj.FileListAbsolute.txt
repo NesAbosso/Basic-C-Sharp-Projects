@@ -1,0 +1,14 @@
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.exe
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.deps.json
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.runtimeconfig.json
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.runtimeconfig.dev.json
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.dll
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\bin\Debug\netcoreapp3.1\ConstructorConstVar.pdb
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.csproj.AssemblyReference.cache
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.AssemblyInfoInputs.cache
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.AssemblyInfo.cs
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.csproj.CoreCompileInputs.cache
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.dll
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.pdb
+C:\Users\Janessa Abosso\source\repos\ConstructorConstVar\ConstructorConstVar\obj\Debug\netcoreapp3.1\ConstructorConstVar.genruntimeconfig.cache
